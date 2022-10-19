@@ -1,1 +1,3 @@
-# Deleting-Picture-Background-Python
+# Usage
+
+In python file I marked that you will change.
